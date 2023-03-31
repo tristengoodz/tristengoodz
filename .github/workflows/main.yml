@@ -89,6 +89,11 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_self: yes
           plugin_notable_types: commit
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_url: https://thegoodzapp.com/
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_repositories: yes
