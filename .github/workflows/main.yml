@@ -50,7 +50,7 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 5
           plugin_code: yes
-          plugin_code_days: 6000
+          plugin_code_days: 365
           plugin_code_languages: python
           plugin_code_lines: 30
           plugin_code_load: 10
