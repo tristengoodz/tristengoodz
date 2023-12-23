@@ -5246,7 +5246,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.17m out of 60.1m repositories</span>
+                                    <span class="gh">ranked 1.17m out of 54.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 19 stars</div>
                             </div>
@@ -5292,7 +5292,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.40m out of 60.1m repositories</span>
+                                    <span class="gh">ranked 3.31m out of 54.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -5996,7 +5996,7 @@ A revolutionary CLI tool for building and deploying multi-tenant enterprise-grad
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Dec 2023, 12:04:59 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2023, 13:04:17 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
