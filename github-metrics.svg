@@ -4640,7 +4640,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 15.8m out of 127m users</span>
+                                    <span class="gh">ranked 15.8m out of 125m users</span>
                                 </div>
                                 <div class="text">Published 3 public repositories</div>
                             </div>
@@ -4787,7 +4787,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.18m out of 50.4m repositories</span>
+                                    <span class="gh">ranked 1.18m out of 51m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 19 stars</div>
                             </div>
@@ -4833,7 +4833,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.36m out of 50.4m repositories</span>
+                                    <span class="gh">ranked 3.31m out of 51m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -5537,7 +5537,7 @@ A revolutionary CLI tool for building and deploying multi-tenant enterprise-grad
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2024, 06:06:14 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2024, 07:05:25 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
