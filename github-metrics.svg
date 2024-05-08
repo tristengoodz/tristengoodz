@@ -4738,7 +4738,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 16.8m out of 136m users</span>
+                                    <span class="gh">ranked 16.8m out of 134m users</span>
                                 </div>
                                 <div class="text">Published 3 public repositories</div>
                             </div>
@@ -5635,7 +5635,7 @@ A revolutionary CLI tool for building and deploying multi-tenant enterprise-grad
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2024, 22:05:52 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 May 2024, 23:04:35 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
